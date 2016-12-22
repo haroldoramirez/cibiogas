@@ -1,0 +1,9 @@
+{
+  "name": "architectplay",
+  "version": "0.0.1",
+  "dependencies": {
+    "font-awesome": "^4.6.1",
+    "material-kit": "^1.1.0"
+  },
+  "appPath": "app"
+}
